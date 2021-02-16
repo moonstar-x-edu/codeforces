@@ -2,8 +2,6 @@
 
 ## [C: Songs Compression](https://codeforces.com/contest/1015/problem/C)
 
-### Stats
-
 * **Language**: `Python 3`
 * **Verdict**: `Accepted`
 * **Time**: `326 ms`
